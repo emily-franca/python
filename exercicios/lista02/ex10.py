@@ -12,6 +12,7 @@ media = (n1 + n2) / 2
 if media >= 7:
     print("Aprovado!")
 else:
+    print("---")
     nota_exame = float(input("Digite a nota do exame: "))
     #assumindo que a nota mais baixa será substituida pela nota do exame:
     if nota_exame >= n1:
