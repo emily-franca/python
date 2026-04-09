@@ -1,4 +1,4 @@
-''' Calcule a soma de dois números, se o resultado for maior que 10, mostre-o na tela.'''
+#Calcule a soma de dois números, se o resultado for maior que 10, mostre-o na tela.
 num1 = int(input("Digite o primeiro número: "))
 num2 = int(input("Digite o segundo valor: "))
 

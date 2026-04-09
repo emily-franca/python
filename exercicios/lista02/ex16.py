@@ -1,4 +1,4 @@
-'''Entrar com um número de 1 a 12 e exibir o mês correspondente.'''
+#Entrar com um número de 1 a 12 e exibir o mês correspondente.
 
 num_mes = int(input("Digite o número correspondente ao mês: "))
 

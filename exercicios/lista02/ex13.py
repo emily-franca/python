@@ -1,5 +1,5 @@
-'''Ler o nome de 2 times e o número de gols marcados na partida. Escrever o nome do
-vencedor. Caso não haja vencedor deverá ser impressa a palavra EMPATE.'''
+#Ler o nome de 2 times e o número de gols marcados na partida. Escrever o nome do
+#vencedor. Caso não haja vencedor deverá ser impressa a palavra EMPATE.
 print("====================================================")
 print("                      TIME 01                       ")
 print("----------------------------------------------------")

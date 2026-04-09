@@ -1,4 +1,4 @@
-'''Faça um algoritmo que verifique se uma letra digitada é vogal ou consoante.'''
+#Faça um algoritmo que verifique se uma letra digitada é vogal ou consoante
 
 letra = input("Digite a letra para verificação: ")
 letra = letra.lower()

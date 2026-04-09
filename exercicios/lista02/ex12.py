@@ -1,5 +1,5 @@
-'''Faça um algoritmo que leia um número inteiro e mostre uma mensagem indicando se
-este número é par ou ímpar.'''
+#Faça um algoritmo que leia um número inteiro e mostre uma mensagem indicando se
+#este número é par ou ímpar.
 
 num = int(input("Digite o número: "))
 res = num % 2

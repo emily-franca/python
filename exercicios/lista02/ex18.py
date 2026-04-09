@@ -1,4 +1,4 @@
-'''Ler 2 valores (considere que não serão lidos valores iguais) e escrever o maior deles.'''
+#Ler 2 valores (considere que não serão lidos valores iguais) e escrever o maior deles.
 
 valor01 = int(input("Digite o primeiro valor: "))
 valor02 = int(input("Digite o segundo valor:"))

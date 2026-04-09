@@ -1,5 +1,5 @@
-'''Entrar com a sigla do estado de uma pessoa e imprimir uma das mensagens: “Carioca,
-Paulista, Mineiro ou Outros”'''
+#Entrar com a sigla do estado de uma pessoa e imprimir uma das mensagens: “Carioca,
+#Paulista, Mineiro ou Outros”
 
 sigla = input("Digite a sigla do seu estado: ")
 #Deixando a string em uppercase
