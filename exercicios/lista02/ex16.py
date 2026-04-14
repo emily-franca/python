@@ -28,3 +28,9 @@ elif num_mes == 12:
     print("Mês correspondente: DEZEMBRO.")
 else:
     print("Digite um mês válido!")
+
+    #match var
+    #case testeLogico:
+    #   instruções
+    # case _:
+    #   instruções
