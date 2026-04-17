@@ -3,8 +3,6 @@ valor01 = int(input("Digite o 1º valor: "))
 valor02 = int(input("Digite o 2º valor: "))
 valor03 = int(input("Digite o 3º valor: "))
 
-#6,10,2
-
 if valor01 > valor03 and valor01 > valor02: #valor01 é maior
     maior = valor01
     if valor02 > valor03:
