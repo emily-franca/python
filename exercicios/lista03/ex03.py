@@ -19,9 +19,9 @@ while num != 0:
             menor = num
         else:
             if(num > maior): #verificação do maior valor
-                    maior = num
+                maior = num
             if(num < menor): #verificação do menor valor
-                    menor = num
+                menor = num
         print("Para sair digite '0' ")
     print("-" *3)
 print("-" *5)
