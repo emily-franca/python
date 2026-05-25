@@ -13,7 +13,7 @@ while cont >= 1 and cont<= 20:
     if(num < 0):
         negativos = negativos + str(num) + " "
     else:
-        soma_positivos = soma_positivos + num
+        soma_positivos += num
         qtd_positivos += 1
     cont += 1
 print('---')
