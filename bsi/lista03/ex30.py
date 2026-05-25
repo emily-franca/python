@@ -19,9 +19,9 @@ print("-" * 30)
 
 for i in range(n):
     print(f"\nConsumidor {i + 1}:")
-    id_consumidor = input("  Número de identificação: ")
-    kwh = float(input("  Quantidade de kWh consumidos: "))
-    tipo = input("  Tipo (R - residencial, C - comercial, I - industrial): ")
+    id_consumidor = input("Número de identificação: ")
+    kwh = float(input("Quantidade de kWh consumidos: "))
+    tipo = input("Tipo (R - residencial, C - comercial, I - industrial): ")
     
     if tipo == 'R' or tipo == 'r':
         total_pagar = kwh * preco_r
@@ -33,7 +33,7 @@ for i in range(n):
         total_pagar = kwh * preco_i
         total_kwh_i += kwh
     
-    print(f"  → ID: {id_consumidor} - Total a pagar: R$ {total_pagar:.2f}")
+    print(f"ID: {id_consumidor} - Total a pagar: R$ {total_pagar:.2f}")
     total_kwh_geral += kwh
     total_consumidores += 1
 media_geral = total_kwh_geral / total_consumidores
