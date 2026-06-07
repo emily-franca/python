@@ -3,8 +3,7 @@ for i in range(128):
     numero = float(input(f"Digite o elemento {i}: "))
     A.append(numero)
 
-#chave K
-K = float(input("\nDigite a chave K: "))
+K = float(input("\nDigite af chave K: "))
 
 #pesquisa Binária
 inicio = 0
