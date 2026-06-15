@@ -9,7 +9,7 @@ palavra_oculta = ["_"] * len(palavra)
 erros = 0
 max_erros = 6
 
-print(f"A palavra é: {' '.join(palavra_oculta)} \n")
+print(f"A palavra é: {' '.join(palavra_oculta)}")
 
 while erros < max_erros and "_" in palavra_oculta:
     letra = input("Digite uma letra: \n").lower()
